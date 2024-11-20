@@ -13,7 +13,7 @@ header
 {
     display: flex;
     width: 100%;
-    background-color: #eeee22;
+    background-color: #1915ed;
     gap: 20px;
     border-bottom: 2px solid black;
     overflow: hidden;
@@ -45,7 +45,7 @@ main
 .mobile
 {
     display: flex;
-    background-color: #eeee22;
+    background-color: #1915ed;
     border-bottom: 2px solid black;
 }
 
@@ -57,7 +57,7 @@ main
 
 .mobile ul a
 {
-    color: #45a247;
+    color: #d42c4b;
     font-weight: 600;
     text-decoration: none;
     transition: all ease-in-out .3s;
@@ -65,7 +65,7 @@ main
 
 .mobile ul a:hover
 {
-    color: #283c86;
+    color: #058d96;
 }
 
 .desktop
@@ -98,12 +98,12 @@ td
 
 .ch
 {
-    background-color: #eeee22;
+    background-color: #1915ed;
 }
 
 .nch
 {
-    background-color: #45a247;
+    background-color: #d42c4b;
 }
 
 .link-container
@@ -125,7 +125,7 @@ li
 
 li a
 {
-    color: #45a247;
+    color: #d42c4b;
     font-weight: 600;
     text-decoration: none;
     transition: all ease-in-out .3s;
@@ -133,7 +133,7 @@ li a
 
 li a:hover
 {
-    color: #283c86;
+    color: #058d96;
 }
 
 #image
@@ -169,7 +169,7 @@ input
     align-self: center;
     max-width: 360px;
     width: 100%;
-    background: linear-gradient(to right, #283c86, #45a247);
+    background: linear-gradient(to right, #058d96, #d42c4b);
     border-radius: 6px;
     padding-bottom: 20px;
     margin-left: 10px;
@@ -250,7 +250,7 @@ footer
 {
     height: 250px;
     width: 100%;
-    background-color: #45a247;
+    background-color: #d42c4b;
     margin-top: 150px;
     font-size: large;
     font-weight: bold;
@@ -332,14 +332,14 @@ footer
     {
         display: flex;
         gap: 10px;
-        background-color: #45a247;
+        background-color: #d42c4b;
         margin-top: 0;
         padding-right: 30px;
     }
 
     .desktop ul a
     {
-        color: #121318;
+        color: #161017;
         font-weight: 600;
         text-decoration: none;
         transition: all ease-in-out .3s;
@@ -347,7 +347,7 @@ footer
 
     .desktop ul a:hover
     {
-        color: #283c86;
+        color: #058d96;
     }
 
     header{
